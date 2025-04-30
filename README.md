@@ -1,25 +1,9 @@
 
 <h1 align="center">
-  <a href="#"> INPUT CONTROL</a>
+  <a href="#"> Simple Calculator</a>
 </h1>
 
-<h3 align="center">Implemetasi Toast dan Alert Pada Aplikasi Mobile </h3>
-
-
-## Penjelasan
-![Alt text](komponen/snippet.png)
-```bash
-Gambar 1.1
-```
-Logika diatas untuk input controls dengan type toast dengan id yang di targetkan  btnToast dengan output yang dihasilkan Ketika ditekan yaitu “TOMBOL DITEKAN”.
-
-![Alt text](komponen/snippet%20(1).png)
-```bash
-Gambar 1.2
-```
-Logika diatas untuk input controls dengan type alert dengan id yang ditagetkan pada button, Ketika button di klik akan muncul popup dengan title “HALO INI ALERT BOX” dan message “TUTUP DENGAN OK “. Ketika button ok ditekan popup akan hilang.
-
----
+<h3 align="center">Made with Jframe Form To fulfill the assignment Object Oriented Programming 2  </h3>
 
 ### Demo
-![](komponen/demo.gif)
+![](assets/demo.gif)
